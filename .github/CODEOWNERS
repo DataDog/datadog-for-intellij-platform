@@ -1,0 +1,4 @@
+# Automatically assign the team as a reviewer.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @Datadog/ide-integration

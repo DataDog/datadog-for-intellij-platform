@@ -21,4 +21,4 @@ Enables developers to interact with [Datadog](https://www.datadoghq.com/) servic
 
 
 
-[User Guide](https://musical-spork-b9da1bce.pages.github.io/)
+[User Guide](https://datadoghq.dev/datadog-intellij-plugin/)

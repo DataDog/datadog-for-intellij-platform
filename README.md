@@ -15,4 +15,4 @@ Enables developers to interact with [Datadog](https://www.datadoghq.com/) servic
 - a **Flame Graph** visualisation of the aggregated profile data
 - direct links from the profiling visualisations to the source code in the editor
 
-[User Guide](https://datadoghq.dev/datadog-intellij-plugin/)
+[User Guide](https://datadoghq.dev/datadog-intellij-plugin/) | [Marketplace](https://plugins.jetbrains.com/plugin/19495-datadog)

@@ -12,13 +12,7 @@ Enables developers to interact with [Datadog](https://www.datadoghq.com/) servic
 ### Profiling
 - aggregated [profiling](https://docs.datadoghq.com/tracing/profiler/) data helps developers remove costly bottlenecks in code
 - a **Top List** showing methods consuming the most resources
-- an **Icicle Graph** visualisation of the aggregated profile data
+- a **Flame Graph** visualisation of the aggregated profile data
 - direct links from the profiling visualisations to the source code in the editor
 
-### Tracing
-- [custom instrumentation](https://docs.datadoghq.com/tracing/setup_overview/custom_instrumentation/) via context actions, code surround and live templates, plus a list of custom instrumentation points in the current project
-- display of trace metrics for services associated with the current project, resources within a service and tagged resources in the source code editor (`@Trace` annotations, spans and `dd:trace` comment tags)
-
-
-
-[User Guide](https://datadoghq.dev/datadog-intellij-plugin/)
+[User Guide](https://datadoghq.dev/datadog-intellij-plugin/) | [Marketplace](https://plugins.jetbrains.com/plugin/19495-datadog)

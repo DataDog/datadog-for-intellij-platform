@@ -7,12 +7,22 @@
 
 # Datadog for IntelliJ IDEA
 
-Enables developers to interact with [Datadog](https://www.datadoghq.com/) services while working on Java projects. Features include:
+The [Datadog](https://www.datadoghq.com/) plugin helps improve software performance by providing
+meaningful code-level insights in the IDE
+based on real-time observability data. It helps reduce application latency and lower cloud costs by highlighting
+specific code lines that consume the most CPU, allocate the most memory and spend the most time on locks, disk I/O,
+socket I/O, and more.
 
-### Profiling
-- aggregated [profiling](https://docs.datadoghq.com/tracing/profiler/) data helps developers remove costly bottlenecks in code
-- a **Top List** showing methods consuming the most resources
-- a **Flame Graph** visualisation of the aggregated profile data
-- direct links from the profiling visualisations to the source code in the editor
+> DISCLAIMER
+> 
+> This is a **Public Beta** version of the Datadog plugin, intended for Datadog customers that use the [Continuous Profiler](https://docs.datadoghq.com/profiler/#pagetitle) for their Java Services.
 
-[User Guide](https://datadoghq.dev/datadog-intellij-plugin/) | [Marketplace](https://plugins.jetbrains.com/plugin/19495-datadog)
+### Features
+
+- Top List to identify the methods that consume the most resources
+- Flame Graph visualizes the aggregated profile data
+- Find resource consumption broken down by method name and line number
+- Insights available from various staging and production environments
+
+
+[Documentation](https://docs.datadoghq.com/developers/ide_integrations/idea/) | [Marketplace](https://plugins.jetbrains.com/plugin/19495-datadog)

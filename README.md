@@ -5,7 +5,7 @@
   <img src=".github/images/dd_logo_h_rgb.svg?raw=true" width="100%" height="100" alt="Datadog Logo">
 </picture>
 
-The [Datadog](https://www.datadoghq.com/) plugin helps improve software performance by providing
+The [Datadog](https://plugins.jetbrains.com/plugin/19495-datadog) plugin helps improve software performance by providing
 meaningful code-level insights in the IDE
 based on real-time observability data. It helps reduce application latency and lower cloud costs by highlighting
 specific code lines that consume the most CPU, allocate the most memory and spend the most time on locks, disk I/O,

@@ -5,6 +5,8 @@
   <img src=".github/images/dd_logo_h_rgb.svg?raw=true" width="100%" height="100" alt="Datadog Logo">
 </picture>
 
+# Datadog for the IntelliJ Platform
+
 The [Datadog](https://plugins.jetbrains.com/plugin/19495-datadog) plugin helps improve software performance by providing
 meaningful code-level insights in the IDE
 based on real-time observability data. It helps reduce application latency and lower cloud costs by highlighting

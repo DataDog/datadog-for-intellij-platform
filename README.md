@@ -5,7 +5,7 @@
   <img src=".github/images/dd_logo_h_rgb.svg?raw=true" width="100%" height="100" alt="Datadog Logo">
 </picture>
 
-# Datadog for the IntelliJ Platform
+# Datadog for JetBrains IDEs
 
 The [Datadog](https://plugins.jetbrains.com/plugin/19495-datadog) plugin helps improve software performance by providing
 meaningful code-level insights in the IDE
@@ -16,7 +16,7 @@ socket I/O, and more.
 > DISCLAIMER  
 > This is a **Public Beta** version of the Datadog plugin intended for developers that use Datadog products such as
 > the [Log Explorer](https://docs.datadoghq.com/logs/explorer/) and
-> the [Continuous Profiler](https://docs.datadoghq.com/profiler/#pagetitle) for their Java or Go Services.
+> the [Continuous Profiler](https://docs.datadoghq.com/profiler/#pagetitle) for their Java, Go and Python Services.
 
 ### Plugin Features
 

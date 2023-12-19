@@ -13,10 +13,8 @@ based on real-time observability data. It helps reduce application latency and l
 specific code lines that consume the most CPU, allocate the most memory and spend the most time on locks, disk I/O,
 socket I/O, and more.
 
-> DISCLAIMER  
-> This is a **Public Beta** version of the Datadog plugin intended for developers that use Datadog products such as
-> the [Log Explorer](https://docs.datadoghq.com/logs/explorer/) and
-> the [Continuous Profiler](https://docs.datadoghq.com/profiler/#pagetitle) for their Java, Go and Python Services.
+The plugin is for developers that use Datadog products including [Error Tracking](https://docs.datadoghq.com/tracing/error_tracking/),
+[Log Explorer](https://docs.datadoghq.com/logs/explorer/), and the [Continuous Profiler](https://docs.datadoghq.com/profiler/#pagetitle) for their Java, Go, Python and PHP services.
 
 ### Plugin Features
 
@@ -35,6 +33,11 @@ The **Continuous Profiler** helps you to reduce latency and lower cloud costs by
 
 The **Logs Navigation** support opens the Datadog Log Explorer with a view matching the context in which you are
 working.
+
+The **CI Test Runs** feature opens the Continuous Integration Visibility Explorer to show recent runs for a selected test.
+
+The **[Static Analysis](https://docs.datadoghq.com/continuous_integration/static_analysis/?tab=githubactions)** integration, in beta, analyzes your code (locally) against predefined rules to detect and
+fix problems before you commit changes.
 
 ### Help and Feedback
 Checkout the [documentation](https://docs.datadoghq.com/developers/ide_integrations/idea/) to see more information about the

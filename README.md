@@ -24,6 +24,7 @@ The **Code Insights** view keeps you informed about:
 - [Vulnerability](https://docs.datadoghq.com/security/application_security/vulnerability_management/) reports by Application Security Management
 - [Flaky tests](https://docs.datadoghq.com/continuous_integration/guides/flaky_test_management/) detected by CI Visibility
 - Profiling insights from [Watchdog Insights](https://docs.datadoghq.com/watchdog/insights/)
+- Log insights from [Log patterns](https://docs.datadoghq.com/logs/explorer/analytics/patterns/)
 
 The **Continuous Profiler** helps you to reduce latency and lower cloud costs by highlighting code lines that:
 

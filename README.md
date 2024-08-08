@@ -1,4 +1,5 @@
 <!-- https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to -->
+[![Version](https://img.shields.io/jetbrains/plugin/v/19495)](https://plugins.jetbrains.com/plugin/19495-datadog) [![Downloads](https://img.shields.io/jetbrains/plugin/d/19495)](https://plugins.jetbrains.com/plugin/19495-datadog) [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/19495)](https://plugins.jetbrains.com/plugin/19495-datadog)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/images/dd_logo_h_white.svg?raw=true" width="100%" height="100" alt="Datadog Logo">

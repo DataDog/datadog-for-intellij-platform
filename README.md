@@ -43,3 +43,8 @@ fix problems before you commit changes.
 ### Help and Feedback
 Checkout the [documentation](https://docs.datadoghq.com/developers/ide_integrations/idea/) to see more information about the
 Datadog plugin. For any feedback reach out to us via the [issue tracker](https://github.com/DataDog/datadog-for-intellij-platform/issues) or send an email to team-ide-integration@datadoghq.com
+
+### Data and Telemetry
+Datadog anonymously collects information about your usage of this IDE, including how you interact with it, whether errors occurred while using it, and what caused those errors, in accordance with the [Datadog Privacy Policy](https://www.datadoghq.com/legal/privacy/) and [Datadog's EULA](https://www.datadoghq.com/legal/eula/).
+
+If you don't wish to send this data to Datadog, you can opt out at any time in the settings: `Settings > Tools > Datadog > Data Sharing` and disable the `Send usage statistics` option.

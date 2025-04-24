@@ -19,7 +19,7 @@ and provides links to the [Log Explorer](https://docs.datadoghq.com/logs/explore
 
 The **Code Insights** feature helps you find and fix runtime errors from [Error Tracking](https://docs.datadoghq.com/tracing/error_tracking/), library and runtime code vulnerabilities from [Code Security](https://docs.datadoghq.com/security/code_security/), flaky tests detected by [Test Optimization](https://docs.datadoghq.com/tests/), and more.
 
-The **Continuous Profiler** helps you to reduce latency and lower cloud costs by highlighting code that uses the most CPU time, allocates the most memory, triggers the most exceptions, or consumes high amounts other resources.
+The **Continuous Profiler** helps you to reduce latency and lower cloud costs by highlighting code that uses the most CPU time, allocates the most memory, triggers the most exceptions, or consumes high amounts of other resources.
 
 The **CI Test Runs** feature opens the [CI Visibility Explorer](https://docs.datadoghq.com/continuous_integration/explorer) to show recent runs for any test.
 

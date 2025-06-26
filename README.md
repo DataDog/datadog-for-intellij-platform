@@ -10,7 +10,7 @@
 
 The [Datadog](https://www.datadoghq.com/) plugin helps improve software performance by providing code insights in the IDE
 based on real-time observability data.  The plugin is for developers that use Datadog products including 
-[Log Explorer](https://docs.datadoghq.com/logs/explorer/), [Error Tracking](https://docs.datadoghq.com/tracing/error_tracking/), [Code Security](https://docs.datadoghq.com/security/code_security/), the [Continuous Profiler](https://docs.datadoghq.com/profiler/), [Test Optimization](https://docs.datadoghq.com/tests/) and [CI Visibility](https://docs.datadoghq.com/continuous_integration/) to monitor their services.
+[Log Explorer](https://docs.datadoghq.com/logs/explorer/), [Error Tracking](https://docs.datadoghq.com/tracing/error_tracking/), [Live Debugger](https://docs.datadoghq.com/tracing/live_debugger/), [Code Security](https://docs.datadoghq.com/security/code_security/), the [Continuous Profiler](https://docs.datadoghq.com/profiler/), [Test Optimization](https://docs.datadoghq.com/tests/) and [CI Visibility](https://docs.datadoghq.com/continuous_integration/) to monitor their services.
 
 ### Plugin Features
 
@@ -19,7 +19,9 @@ and provides links to the [Log Explorer](https://docs.datadoghq.com/logs/explore
 
 The **Code Insights** feature helps you find and fix runtime errors from [Error Tracking](https://docs.datadoghq.com/tracing/error_tracking/), library and runtime code vulnerabilities from [Code Security](https://docs.datadoghq.com/security/code_security/), flaky tests detected by [Test Optimization](https://docs.datadoghq.com/tests/), and more.
 
-The **Continuous Profiler** helps you to reduce latency and lower cloud costs by highlighting code that uses the most CPU time, allocates the most memory, triggers the most exceptions, or consumes high amounts of other resources.
+The **[Live Debugger](https://docs.datadoghq.com/developers/ide_plugins/idea/live_debugger/)** enables you to capture vital debugging information by adding temporary logs to your runtime code and without having to stop and restart your service or application.
+
+The **[Continuous Profiler](https://docs.datadoghq.com/developers/ide_plugins/idea/continuous_profiler)** helps you to reduce latency and lower cloud costs by highlighting code that uses the most CPU time, allocates the most memory, triggers the most exceptions, or consumes high amounts of other resources.
 
 The **CI Test Runs** feature opens the [CI Visibility Explorer](https://docs.datadoghq.com/continuous_integration/explorer) to show recent runs for any test.
 

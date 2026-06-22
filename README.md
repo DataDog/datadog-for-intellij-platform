@@ -12,16 +12,16 @@ The [Datadog](https://www.datadoghq.com/) plugin helps developers debug problems
 
 ### Plugin Features
 
+Write secure code with **[Code Security](https://docs.datadoghq.com/ide_plugins/idea/code_security/)**:
+
+* Library and runtime code vulnerabilities are reported inline in your source files and summarized in the Code Insights tab.
+* Code quality and security rules are detected by Datadog's static analysis engine, running locally, and reported to you immediately.
+
+> The following features are in limited support.
+
 **[Error Tracking](https://docs.datadoghq.com/ide_plugins/idea/error_tracking/)** helps you find and fix runtime errors from production without leaving your IDE.
 
 See event counts from **[Logs](https://docs.datadoghq.com/ide_plugins/idea/logs/)** directly in your source code editor and easily navigate to the [Log Explorer](https://docs.datadoghq.com/logs/explorer/) for further analysis.
-
-Capture vital debugging information with the **[Live Debugger](https://docs.datadoghq.com/ide_plugins/idea/live_debugger/)** by adding temporary logpoints to your runtime code. There is no need to stop and restart your service or application.
-
-Write secure code with alerts from **[Code Security](https://docs.datadoghq.com/security/code_security/)**:
-
-* library and runtime code vulnerabilities are reported inline in your source files and summarised in the Code Insights tab
-* code quality and security rules are detected by Datadog's static analysis engine, running locally, and reported to you immediately.
 
 ### Help and Feedback
 Checkout the [documentation](https://docs.datadoghq.com/ide_plugins/idea/) to see more information about the

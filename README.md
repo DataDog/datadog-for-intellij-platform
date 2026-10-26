@@ -8,7 +8,7 @@
 
 # Datadog for JetBrains IDEs
 
-The [Datadog](https://www.datadoghq.com/) plugin helps developers debug problems faster by providing runtime context based on real-time observability data from Datadog.
+The [Datadog](https://www.datadoghq.com/) plugin helps you write more secure code and debug faster by providing security analysis and runtime context directly in your IDE.
 
 ### Plugin Features
 
@@ -16,12 +16,6 @@ Write secure code with **[Code Security](https://docs.datadoghq.com/ide_plugins/
 
 * Library and runtime code vulnerabilities are reported inline in your source files and summarized in the Code Insights tab.
 * Code quality and security rules are detected by Datadog's static analysis engine, running locally, and reported to you immediately.
-
-> The following features are in limited support.
-
-**[Error Tracking](https://docs.datadoghq.com/ide_plugins/idea/error_tracking/)** helps you find and fix runtime errors from production without leaving your IDE.
-
-See event counts from **[Logs](https://docs.datadoghq.com/ide_plugins/idea/logs/)** directly in your source code editor and easily navigate to the [Log Explorer](https://docs.datadoghq.com/logs/explorer/) for further analysis.
 
 ### Help and Feedback
 Checkout the [documentation](https://docs.datadoghq.com/ide_plugins/idea/) to see more information about the
